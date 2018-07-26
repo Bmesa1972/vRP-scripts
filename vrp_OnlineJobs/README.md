@@ -17,7 +17,9 @@ Dont upload this resource without my permission :)
 
 If you want to edit the jobs you change the groups in line 13-16
 
-To edit the Menu options go to the lines 156-159!
+To edit the Menu choices go to the lines 156-159!
+
+If you want to remove a job online, just comment that job choice!
 
 # Installation-
 
