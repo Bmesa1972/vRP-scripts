@@ -19,4 +19,8 @@ If you want to edit the jobs you change the groups in line 13-16
 
 To edit the Menu options go to the lines 156-159!
 
+#Installation-
+
+1.Put the script in the resources folder
+2.Add "start vRP_OnlineJobs" in the server.cfg
 Enjoy!
