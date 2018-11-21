@@ -6,13 +6,13 @@ Hi, I wanted to share with you my S9 menu for vRP!
 In the code you should have 4 more links that are 4 more backgrounds for the phone and 1 with the default one (black bg).
 
 You can shoose between pink, gold, blue, silver and black! (prints below)
-pink- https://i.imgur.com/JI1xVcT.png  
-gold- https://i.imgur.com/YdTxEhu.png
-blue- https://i.imgur.com/P8WaLFM.png
-silver- https://i.imgur.com/hOOcpcr.png
-black- https://i.imgur.com/BLfzlXK.png (default)
+pink- https://i.imgur.com/JI1xVcT.png. 
+gold- https://i.imgur.com/YdTxEhu.png.
+blue- https://i.imgur.com/P8WaLFM.png.
+silver- https://i.imgur.com/hOOcpcr.png.
+black- https://i.imgur.com/BLfzlXK.png (default).
 
-You can edit the design.css, be my guest but dont re-upload the file with my changes without my permission :)
+You can edit the design.css but dont re-upload the file with my changes without my permission :)
 
 Unfortunately, I couldn't make the header fit well as I wanted, but it looks cool so!
 
