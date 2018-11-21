@@ -10,7 +10,7 @@ You can shoose between pink, gold, blue, silver and black! (prints below):
 [gold](); 
 [blue](); 
 [silver](); 
-[black]().
+[black](http://prntscr.com/ll8wp0).
 
 You can edit the design.css but dont re-upload the file with my changes without my permission :)
 
