@@ -18,7 +18,7 @@ Unfortunately, I couldn't make the header fit well as I wanted, but it looks coo
 
 If you don't want to come always to the repo. you will have all the links commented in the file!
 
-If you find any problems or a fix to keep the border on top of the header pull request your edit or contact me through discord (MM#3844) and I«ll make sure that you get the Credit for the edit!
+If you find any problems or a fix to keep the border on top of the header pull request your edit or contact me through discord (**MM#3844**) and I«ll make sure that you get the Credit for the edit!
 
 # Installation-
 1.Copy the design.css from the download
