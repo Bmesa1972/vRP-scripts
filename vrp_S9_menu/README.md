@@ -8,7 +8,7 @@ In the code you should have 4 more links that are 4 more backgrounds for the pho
 You can shoose between pink, gold, blue, silver and black! (prints below): 
 [pink](); 
 [gold](); 
-[lue](); 
+[blue](); 
 [silver](); 
 [black]().
 
