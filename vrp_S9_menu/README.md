@@ -6,10 +6,10 @@ Hi, I wanted to share with you my S9 menu for vRP!
 In the code you should have 4 more links that are 4 more backgrounds for the phone and 1 with the default one (black bg).
 
 You can choose between: 
-[pink](http://prntscr.com/ll8y3n); 
-[gold](http://prntscr.com/ll8zx7); 
-[blue](http://prntscr.com/ll92qp); 
-[silver](http://prntscr.com/ll9564); 
+[pink](http://prntscr.com/ll8y3n), 
+[gold](http://prntscr.com/ll8zx7), 
+[blue](http://prntscr.com/ll92qp), 
+[silver](http://prntscr.com/ll9564) and 
 [black](http://prntscr.com/ll8wp0).
 
 You can edit the design.css but dont re-upload the file with my changes without my permission :)
